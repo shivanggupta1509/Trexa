@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 ##
-#  By Tartou2
+#  By Shivang 
 #  Admin Control Panel Finder  
 #  Home: www.next-next-future.com
 ##
@@ -15,8 +15,7 @@ system('title Admin Control Panel Finder Coded by Tartou2 from www.next-next-fut
 print"\n";
 print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n" ;
 print "                        Admin Control Panel Finder v 1 \n" ;
-print "                             Coded By Tartou2\n" ;
-print "                       website:www.next-next-future.com\n\n" ;
+print "                             Coded By Shivang \n" ;
 print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n" ;
 print "\n";
 
